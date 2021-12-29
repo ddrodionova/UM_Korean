@@ -1,0 +1,41 @@
+0,1,2,3,4,5
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,발상한다,발상해,발상해요,발상합니다
+Indicative,Past,발상했다,발상했어,발상했어요,발상했습니다
+Interrogative,Non-past,발상하느냐,발상해,발상해요,발상합니까
+Interrogative,Past,발상했느냐,발상했어,발상했어요,발상했습니까
+Hortative,Hortative,발상하자,발상해,발상해요,발상합시다
+Imperative,Imperative,"발상해라, 발상하여라",발상해,발상해요,발상합시오
+Assertive,Assertive,발상하겠다,발상하겠어,발상하겠어요,발상하겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,발상해,"발상해서, 발상하여서",발상하니,발상하니까
+Contrast,Contrast,발상하지만,발상하는데,발상하더니,
+Conjunction,Conjunction,발상하고,,,
+Condition,Condition,발상하면,"발상해야, 발상하여야",,
+Motive,Motive,발상하려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,발상함,발상하기,,
+Past-tense verbal nouns,Past-tense verbal nouns,"발상했음, 발상하였음","발상했기, 발상하였기",,
+Determiners,Past,발상한,,,
+Determiners,Present,발상하는,,,
+Determiners,Future,발상할,,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,발상하신다,발상하셔,"발상하세요, 발상하셔요",발상하십니다
+Indicative,Past,발상하셨다,발상하셨어,발상하셨어요,발상하셨습니다
+Interrogative,Non-past,발상하시느냐,발상하셔,"발상하세요, 발상하셔요",발상하십니까
+Interrogative,Past,발상하셨느냐,발상하셨어,발상하셨어요,발상하셨습니까
+Imperative,Imperative,발상하시라,발상하셔,발상하세요,발상하십시오
+Assertive,Assertive,발상하시겠다,발상하시겠어,발상하시겠어요,발상하시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,발상하셔,발상하셔서,발상하시니,발상하시니까
+Contrast,Contrast,발상하시지만,발상하시는데,발상하시더니,
+Conjunction,Conjunction,발상하시고,,,
+Condition,Condition,발상하시면,발상하셔야,,
+Motive,Motive,발상하시려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,발상하심,발상하시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,발상하셨음,발상하셨기,,
+Determiners,Past,발상하신,,,
+Determiners,Present,발상하시는,,,
+Determiners,Future,발상하실,,,

@@ -1,0 +1,41 @@
+0,1,2,3,4,5
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,계약한다,계약해,계약해요,계약합니다
+Indicative,Past,계약했다,계약했어,계약했어요,계약했습니다
+Interrogative,Non-past,계약하느냐,계약해,계약해요,계약합니까
+Interrogative,Past,계약했느냐,계약했어,계약했어요,계약했습니까
+Hortative,Hortative,계약하자,계약해,계약해요,계약합시다
+Imperative,Imperative,"계약해라, 계약하여라",계약해,계약해요,계약합시오
+Assertive,Assertive,계약하겠다,계약하겠어,계약하겠어요,계약하겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,계약해,"계약해서, 계약하여서",계약하니,계약하니까
+Contrast,Contrast,계약하지만,계약하는데,계약하더니,
+Conjunction,Conjunction,계약하고,,,
+Condition,Condition,계약하면,"계약해야, 계약하여야",,
+Motive,Motive,계약하려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,계약함,계약하기,,
+Past-tense verbal nouns,Past-tense verbal nouns,"계약했음, 계약하였음","계약했기, 계약하였기",,
+Determiners,Past,계약한,,,
+Determiners,Present,계약하는,,,
+Determiners,Future,계약할,,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,계약하신다,계약하셔,"계약하세요, 계약하셔요",계약하십니다
+Indicative,Past,계약하셨다,계약하셨어,계약하셨어요,계약하셨습니다
+Interrogative,Non-past,계약하시느냐,계약하셔,"계약하세요, 계약하셔요",계약하십니까
+Interrogative,Past,계약하셨느냐,계약하셨어,계약하셨어요,계약하셨습니까
+Imperative,Imperative,계약하시라,계약하셔,계약하세요,계약하십시오
+Assertive,Assertive,계약하시겠다,계약하시겠어,계약하시겠어요,계약하시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,계약하셔,계약하셔서,계약하시니,계약하시니까
+Contrast,Contrast,계약하시지만,계약하시는데,계약하시더니,
+Conjunction,Conjunction,계약하시고,,,
+Condition,Condition,계약하시면,계약하셔야,,
+Motive,Motive,계약하시려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,계약하심,계약하시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,계약하셨음,계약하셨기,,
+Determiners,Past,계약하신,,,
+Determiners,Present,계약하시는,,,
+Determiners,Future,계약하실,,,

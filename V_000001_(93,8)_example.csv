@@ -1,0 +1,75 @@
+0,1,2,3,4,5
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,크다,커,커요,큽니다
+Indicative,Past,컸다,컸어,컸어요,컸습니다
+Interrogative,Non-past,크냐,커,커요,큽니까
+Interrogative,Past,컸냐,컸어,컸어요,컸습니까
+Assertive,Assertive,크겠다,크겠어,크겠어요,크겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,커,커서,크니,크니까
+Contrast,Contrast,크지만,큰데,크더니,
+Conjunction,Conjunction,크고,,,
+Condition,Condition,크면,커야,,
+,,,,,
+Verbal nouns,Verbal nouns,큼,크기,,
+Past-tense verbal nouns,Past-tense verbal nouns,컸음,컸기,,
+Determiners,Present,,큰,,
+Determiners,Future,,클,,
+,,,,,
+,,Plain (해라체),Informal (해체),Polite (해요체),Formal (하십시오체)
+Indicative,Non-past,크시다,크셔,"크세요, 크셔요",크십니다
+Indicative,Past,크셨다,크셨어,크셨어요,크셨습니다
+Interrogative,Non-past,크시냐,크셔,"크세요, 크셔요",크십니까
+Interrogative,Past,크셨냐,크셨어,크셨어요,크셨습니까
+Assertive,Assertive,크시겠다,크시겠어,크시겠어요,크시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,크셔,크셔서,크시니,크시니까
+Contrast,Contrast,크시지만,크신데,크시더니,
+Conjunction,Conjunction,크시고,,,
+Condition,Condition,크시면,크셔야,,
+,,,,,
+Verbal nouns,Verbal nouns,크심,크시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,크셨음,크셨기,,
+Determiners,Present,,크신,,
+Determiners,Future,,크실,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,큰다,커,커요,큽니다
+Indicative,Past,컸다,컸어,컸어요,컸습니다
+Interrogative,Non-past,크느냐,커,커요,큽니까
+Interrogative,Past,컸느냐,컸어,컸어요,컸습니까
+Hortative,Hortative,크자,커,커요,큽시다
+Imperative,Imperative,커라,커,커요,큽시오
+Assertive,Assertive,크겠다,크겠어,크겠어요,크겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,커,커서,크니,크니까
+Contrast,Contrast,크지만,크는데,크더니,
+Conjunction,Conjunction,크고,,,
+Condition,Condition,크면,커야,,
+Motive,Motive,크려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,큼,크기,,
+Past-tense verbal nouns,Past-tense verbal nouns,컸음,컸기,,
+Determiners,Past,큰,,,
+Determiners,Present,크는,,,
+Determiners,Future,클,,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,크신다,크셔,"크세요, 크셔요",크십니다
+Indicative,Past,크셨다,크셨어,크셨어요,크셨습니다
+Interrogative,Non-past,크시느냐,크셔,"크세요, 크셔요",크십니까
+Interrogative,Past,크셨느냐,크셨어,크셨어요,크셨습니까
+Imperative,Imperative,크시라,크셔,크세요,크십시오
+Assertive,Assertive,크시겠다,크시겠어,크시겠어요,크시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,크셔,크셔서,크시니,크시니까
+Contrast,Contrast,크시지만,크시는데,크시더니,
+Conjunction,Conjunction,크시고,,,
+Condition,Condition,크시면,크셔야,,
+Motive,Motive,크시려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,크심,크시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,크셨음,크셨기,,
+Determiners,Past,크신,,,
+Determiners,Present,크시는,,,
+Determiners,Future,크실,,,

@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,있다,있어,있어요,있습니다
+Indicative,Past,있었다,있었어,있었어요,있었습니다
+Interrogative,Non-past,있느냐,있어,있어요,있습니까
+Interrogative,Past,있었느냐,있었어,있었어요,있었습니까
+Assertive,Assertive,있겠다,있겠어,있겠어요,있겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,있어,있어서,있으니,있으니까
+Contrast,Contrast,있지만,있는데,있더니,
+Conjunction,Conjunction,있고,,,
+Condition,Condition,있으면,있어야,,
+,,,,,
+Verbal nouns,Verbal nouns,있음,있기,,
+Past-tense verbal nouns,Past-tense verbal nouns,있었음,있었기,,
+Determiners,Present,,있는,,
+Determiners,Future,,있을,,

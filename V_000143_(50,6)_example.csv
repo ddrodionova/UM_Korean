@@ -1,0 +1,41 @@
+0,1,2,3,4,5
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,교환된다,교환돼,"교환돼요, 교환되어요",교환됩니다
+Indicative,Past,교환됐다,교환됐어,교환됐어요,교환됐습니다
+Interrogative,Non-past,교환되느냐,교환돼,"교환돼요, 교환되어요",교환됩니까
+Interrogative,Past,교환됐느냐,교환됐어,교환됐어요,교환됐습니까
+Hortative,Hortative,교환되자,교환돼,"교환돼요, 교환되어요",교환됩시다
+Imperative,Imperative,"교환돼라, 교환되어라",교환돼,"교환돼요, 교환되어요",교환됩시오
+Assertive,Assertive,교환되겠다,교환되겠어,교환되겠어요,교환되겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,교환돼,"교환돼서, 교환되어서",교환되니,교환되니까
+Contrast,Contrast,교환되지만,교환되는데,교환되더니,
+Conjunction,Conjunction,교환되고,,,
+Condition,Condition,교환되면,"교환돼야, 교환되어야",,
+Motive,Motive,교환되려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,교환됨,교환되기,,
+Past-tense verbal nouns,Past-tense verbal nouns,"교환됐음, 교환되었음","교환됐기, 교환되었기",,
+Determiners,Past,교환된,,,
+Determiners,Present,교환되는,,,
+Determiners,Future,교환될,,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,교환되신다,교환되셔,"교환되세요, 교환되셔요",교환되십니다
+Indicative,Past,교환되셨다,교환되셨어,교환되셨어요,교환되셨습니다
+Interrogative,Non-past,교환되시느냐,교환되셔,"교환되세요, 교환되셔요",교환되십니까
+Interrogative,Past,교환되셨느냐,교환되셨어,교환되셨어요,교환되셨습니까
+Imperative,Imperative,교환되시라,교환되셔,교환되세요,교환되십시오
+Assertive,Assertive,교환되시겠다,교환되시겠어,교환되시겠어요,교환되시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,교환되셔,교환되셔서,교환되시니,교환되시니까
+Contrast,Contrast,교환되시지만,교환되시는데,교환되시더니,
+Conjunction,Conjunction,교환되시고,,,
+Condition,Condition,교환되시면,교환되셔야,,
+Motive,Motive,교환되시려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,교환되심,교환되시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,교환되셨음,교환되셨기,,
+Determiners,Past,교환되신,,,
+Determiners,Present,교환되시는,,,
+Determiners,Future,교환되실,,,

@@ -1,0 +1,41 @@
+0,1,2,3,4,5
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,꼰다,꽈,"꽈요, 꼬아요",꼽니다
+Indicative,Past,꽜다,꽜어,꽜어요,꽜습니다
+Interrogative,Non-past,꼬느냐,꽈,"꽈요, 꼬아요",꼽니까
+Interrogative,Past,꽜느냐,꽜어,꽜어요,꽜습니까
+Hortative,Hortative,꼬자,꽈,"꽈요, 꼬아요",꼽시다
+Imperative,Imperative,"꽈라, 꼬아라",꽈,"꽈요, 꼬아요",꼽시오
+Assertive,Assertive,꼬겠다,꼬겠어,꼬겠어요,꼬겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,꽈,"꽈서, 꼬아서",꼬니,꼬니까
+Contrast,Contrast,꼬지만,꼬는데,꼬더니,
+Conjunction,Conjunction,꼬고,,,
+Condition,Condition,꼬면,"꽈야, 꼬아야",,
+Motive,Motive,꼬려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,꼼,꼬기,,
+Past-tense verbal nouns,Past-tense verbal nouns,"꽜음, 꼬았음","꽜기, 꼬았기",,
+Determiners,Past,꼰,,,
+Determiners,Present,꼬는,,,
+Determiners,Future,꼴,,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,꼬신다,꼬셔,"꼬세요, 꼬셔요",꼬십니다
+Indicative,Past,꼬셨다,꼬셨어,꼬셨어요,꼬셨습니다
+Interrogative,Non-past,꼬시느냐,꼬셔,"꼬세요, 꼬셔요",꼬십니까
+Interrogative,Past,꼬셨느냐,꼬셨어,꼬셨어요,꼬셨습니까
+Imperative,Imperative,꼬시라,꼬셔,꼬세요,꼬십시오
+Assertive,Assertive,꼬시겠다,꼬시겠어,꼬시겠어요,꼬시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,꼬셔,꼬셔서,꼬시니,꼬시니까
+Contrast,Contrast,꼬시지만,꼬시는데,꼬시더니,
+Conjunction,Conjunction,꼬시고,,,
+Condition,Condition,꼬시면,꼬셔야,,
+Motive,Motive,꼬시려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,꼬심,꼬시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,꼬셨음,꼬셨기,,
+Determiners,Past,꼬신,,,
+Determiners,Present,꼬시는,,,
+Determiners,Future,꼬실,,,

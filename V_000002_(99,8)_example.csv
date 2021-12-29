@@ -1,0 +1,75 @@
+0,1,2,3,4,5
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,된다,돼,"돼요, 되어요",됩니다
+Indicative,Past,됐다,됐어,됐어요,됐습니다
+Interrogative,Non-past,되느냐,돼,"돼요, 되어요",됩니까
+Interrogative,Past,됐느냐,됐어,됐어요,됐습니까
+Hortative,Hortative,되자,돼,"돼요, 되어요",됩시다
+Imperative,Imperative,"돼라, 되어라",돼,"돼요, 되어요",됩시오
+Assertive,Assertive,되겠다,되겠어,되겠어요,되겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,돼,"돼서, 되어서",되니,되니까
+Contrast,Contrast,되지만,되는데,되더니,
+Conjunction,Conjunction,되고,,,
+Condition,Condition,되면,"돼야, 되어야",,
+Motive,Motive,되려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,됨,되기,,
+Past-tense verbal nouns,Past-tense verbal nouns,"됐음, 되었음","됐기, 되었기",,
+Determiners,Past,된,,,
+Determiners,Present,되는,,,
+Determiners,Future,될,,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,되신다,되셔,"되세요, 되셔요",되십니다
+Indicative,Past,되셨다,되셨어,되셨어요,되셨습니다
+Interrogative,Non-past,되시느냐,되셔,"되세요, 되셔요",되십니까
+Interrogative,Past,되셨느냐,되셨어,되셨어요,되셨습니까
+Imperative,Imperative,되시라,되셔,되세요,되십시오
+Assertive,Assertive,되시겠다,되시겠어,되시겠어요,되시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,되셔,되셔서,되시니,되시니까
+Contrast,Contrast,되시지만,되시는데,되시더니,
+Conjunction,Conjunction,되시고,,,
+Condition,Condition,되시면,되셔야,,
+Motive,Motive,되시려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,되심,되시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,되셨음,되셨기,,
+Determiners,Past,되신,,,
+Determiners,Present,되시는,,,
+Determiners,Future,되실,,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,되다,돼,"돼요, 되어요",됩니다
+Indicative,Past,됐다,됐어,됐어요,됐습니다
+Interrogative,Non-past,되냐,돼,"돼요, 되어요",됩니까
+Interrogative,Past,됐냐,됐어,됐어요,됐습니까
+Assertive,Assertive,되겠다,되겠어,되겠어요,되겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,돼,"돼서, 되어서",되니,되니까
+Contrast,Contrast,되지만,된데,되더니,
+Conjunction,Conjunction,되고,,,
+Condition,Condition,되면,"돼야, 되어야",,
+,,,,,
+Verbal nouns,Verbal nouns,됨,되기,,
+Past-tense verbal nouns,Past-tense verbal nouns,"됐음, 되었음","됐기, 되었기",,
+Determiners,Present,,된,,
+Determiners,Future,,될,,
+,,,,,
+,,Plain (해라체),Informal (해체),Polite (해요체),Formal (하십시오체)
+Indicative,Non-past,되시다,되셔,"되세요, 되셔요",되십니다
+Indicative,Past,되셨다,되셨어,되셨어요,되셨습니다
+Interrogative,Non-past,되시냐,되셔,"되세요, 되셔요",되십니까
+Interrogative,Past,되셨냐,되셨어,되셨어요,되셨습니까
+Assertive,Assertive,되시겠다,되시겠어,되시겠어요,되시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,되셔,되셔서,되시니,되시니까
+Contrast,Contrast,되시지만,되신데,되시더니,
+Conjunction,Conjunction,되시고,,,
+Condition,Condition,되시면,되셔야,,
+,,,,,
+Verbal nouns,Verbal nouns,되심,되시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,되셨음,되셨기,,
+Determiners,Present,,되신,,
+Determiners,Future,,되실,,

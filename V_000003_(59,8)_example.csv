@@ -1,0 +1,41 @@
+0,1,2,3,4,5
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,앉는다,앉아,앉아요,앉습니다
+Indicative,Past,앉았다,앉았어,앉았어요,앉았습니다
+Interrogative,Non-past,앉느냐,앉아,앉아요,앉습니까
+Interrogative,Past,앉았느냐,앉았어,앉았어요,앉았습니까
+Hortative,Hortative,앉자,앉아,앉아요,앉읍시다
+Imperative,Imperative,앉아라,앉아,앉아요,앉읍시오
+Assertive,Assertive,앉겠다,앉겠어,앉겠어요,앉겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,앉아,앉아서,앉으니,앉으니까
+Contrast,Contrast,앉지만,앉는데,앉더니,
+Conjunction,Conjunction,앉고,,,
+Condition,Condition,앉으면,앉아야,,
+Motive,Motive,앉으려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,앉음,앉기,,
+Past-tense verbal nouns,Past-tense verbal nouns,앉았음,앉았기,,
+Determiners,Past,앉은,,,
+Determiners,Present,앉는,,,
+Determiners,Future,앉을,,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,앉으신다,앉으셔,"앉으세요, 앉으셔요",앉으십니다
+Indicative,Past,앉으셨다,앉으셨어,앉으셨어요,앉으셨습니다
+Interrogative,Non-past,앉으시느냐,앉으셔,"앉으세요, 앉으셔요",앉으십니까
+Interrogative,Past,앉으셨느냐,앉으셨어,앉으셨어요,앉으셨습니까
+Imperative,Imperative,앉으시라,앉으셔,앉으세요,앉으십시오
+Assertive,Assertive,앉으시겠다,앉으시겠어,앉으시겠어요,앉으시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,앉으셔,앉으셔서,앉으시니,앉으시니까
+Contrast,Contrast,앉으시지만,앉으시는데,앉으시더니,
+Conjunction,Conjunction,앉으시고,,,
+Condition,Condition,앉으시면,앉으셔야,,
+Motive,Motive,앉으시려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,앉으심,앉으시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,앉으셨음,앉으셨기,,
+Determiners,Past,앉으신,,,
+Determiners,Present,앉으시는,,,
+Determiners,Future,앉으실,,,
