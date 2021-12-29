@@ -1,0 +1,34 @@
+0,1,2,3,4,5
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,가로지다,가로져,"가로져요, 가로지어요",가로집니다
+Indicative,Past,가로졌다,가로졌어,가로졌어요,가로졌습니다
+Interrogative,Non-past,가로지냐,가로져,"가로져요, 가로지어요",가로집니까
+Interrogative,Past,가로졌냐,가로졌어,가로졌어요,가로졌습니까
+Assertive,Assertive,가로지겠다,가로지겠어,가로지겠어요,가로지겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,가로져,"가로져서, 가로지어서",가로지니,가로지니까
+Contrast,Contrast,가로지지만,가로진데,가로지더니,
+Conjunction,Conjunction,가로지고,,,
+Condition,Condition,가로지면,"가로져야, 가로지어야",,
+,,,,,
+Verbal nouns,Verbal nouns,가로짐,가로지기,,
+Past-tense verbal nouns,Past-tense verbal nouns,"가로졌음, 가로지었음","가로졌기, 가로지었기",,
+Determiners,Present,,가로진,,
+Determiners,Future,,가로질,,
+,,,,,
+,,Plain (해라체),Informal (해체),Polite (해요체),Formal (하십시오체)
+Indicative,Non-past,가로지시다,가로지셔,"가로지세요, 가로지셔요",가로지십니다
+Indicative,Past,가로지셨다,가로지셨어,가로지셨어요,가로지셨습니다
+Interrogative,Non-past,가로지시냐,가로지셔,"가로지세요, 가로지셔요",가로지십니까
+Interrogative,Past,가로지셨냐,가로지셨어,가로지셨어요,가로지셨습니까
+Assertive,Assertive,가로지시겠다,가로지시겠어,가로지시겠어요,가로지시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,가로지셔,가로지셔서,가로지시니,가로지시니까
+Contrast,Contrast,가로지시지만,가로지신데,가로지시더니,
+Conjunction,Conjunction,가로지시고,,,
+Condition,Condition,가로지시면,가로지셔야,,
+,,,,,
+Verbal nouns,Verbal nouns,가로지심,가로지시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,가로지셨음,가로지셨기,,
+Determiners,Present,,가로지신,,
+Determiners,Future,,가로지실,,

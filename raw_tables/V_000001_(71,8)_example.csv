@@ -1,0 +1,41 @@
+0,1,2,3,4,5
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,한다,해,해요,합니다
+Indicative,Past,했다,했어,했어요,했습니다
+Interrogative,Non-past,하느냐,해,해요,합니까
+Interrogative,Past,했느냐,했어,했어요,했습니까
+Hortative,Hortative,하자,해,해요,합시다
+Imperative,Imperative,"해라, 하여라",해,해요,합시오
+Assertive,Assertive,하겠다,하겠어,하겠어요,하겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,해,"해서, 하여서",하니,하니까
+Contrast,Contrast,하지만,하는데,하더니,
+Conjunction,Conjunction,하고,,,
+Condition,Condition,하면,"해야, 하여야",,
+Motive,Motive,하려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,함,하기,,
+Past-tense verbal nouns,Past-tense verbal nouns,"했음, 하였음","했기, 하였기",,
+Determiners,Past,한,,,
+Determiners,Present,하는,,,
+Determiners,Future,할,,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,하신다,하셔,"하세요, 하셔요",하십니다
+Indicative,Past,하셨다,하셨어,하셨어요,하셨습니다
+Interrogative,Non-past,하시느냐,하셔,"하세요, 하셔요",하십니까
+Interrogative,Past,하셨느냐,하셨어,하셨어요,하셨습니까
+Imperative,Imperative,하시라,하셔,하세요,하십시오
+Assertive,Assertive,하시겠다,하시겠어,하시겠어요,하시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,하셔,하셔서,하시니,하시니까
+Contrast,Contrast,하시지만,하시는데,하시더니,
+Conjunction,Conjunction,하시고,,,
+Condition,Condition,하시면,하셔야,,
+Motive,Motive,하시려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,하심,하시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,하셨음,하셨기,,
+Determiners,Past,하신,,,
+Determiners,Present,하시는,,,
+Determiners,Future,하실,,,

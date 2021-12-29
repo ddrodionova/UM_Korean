@@ -1,0 +1,75 @@
+0,1,2,3,4,5
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,비다,벼,"벼요, 비어요",빕니다
+Indicative,Past,볐다,볐어,볐어요,볐습니다
+Interrogative,Non-past,비냐,벼,"벼요, 비어요",빕니까
+Interrogative,Past,볐냐,볐어,볐어요,볐습니까
+Assertive,Assertive,비겠다,비겠어,비겠어요,비겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,벼,"벼서, 비어서",비니,비니까
+Contrast,Contrast,비지만,빈데,비더니,
+Conjunction,Conjunction,비고,,,
+Condition,Condition,비면,"벼야, 비어야",,
+,,,,,
+Verbal nouns,Verbal nouns,빔,비기,,
+Past-tense verbal nouns,Past-tense verbal nouns,"볐음, 비었음","볐기, 비었기",,
+Determiners,Present,,빈,,
+Determiners,Future,,빌,,
+,,,,,
+,,Plain (해라체),Informal (해체),Polite (해요체),Formal (하십시오체)
+Indicative,Non-past,비시다,비셔,"비세요, 비셔요",비십니다
+Indicative,Past,비셨다,비셨어,비셨어요,비셨습니다
+Interrogative,Non-past,비시냐,비셔,"비세요, 비셔요",비십니까
+Interrogative,Past,비셨냐,비셨어,비셨어요,비셨습니까
+Assertive,Assertive,비시겠다,비시겠어,비시겠어요,비시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,비셔,비셔서,비시니,비시니까
+Contrast,Contrast,비시지만,비신데,비시더니,
+Conjunction,Conjunction,비시고,,,
+Condition,Condition,비시면,비셔야,,
+,,,,,
+Verbal nouns,Verbal nouns,비심,비시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,비셨음,비셨기,,
+Determiners,Present,,비신,,
+Determiners,Future,,비실,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,빈다,벼,"벼요, 비어요",빕니다
+Indicative,Past,볐다,볐어,볐어요,볐습니다
+Interrogative,Non-past,비느냐,벼,"벼요, 비어요",빕니까
+Interrogative,Past,볐느냐,볐어,볐어요,볐습니까
+Hortative,Hortative,비자,벼,"벼요, 비어요",빕시다
+Imperative,Imperative,"벼라, 비어라",벼,"벼요, 비어요",빕시오
+Assertive,Assertive,비겠다,비겠어,비겠어요,비겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,벼byeo,"벼서, 비어서",비니,비니까
+Contrast,Contrast,비지만,비는데,비더니,
+Conjunction,Conjunction,비고,,,
+Condition,Condition,비면,"벼야, 비어야",,
+Motive,Motive,비려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,빔,비기,,
+Past-tense verbal nouns,Past-tense verbal nouns,"볐음, 비었음","볐기, 비었기",,
+Determiners,Past,빈,,,
+Determiners,Present,비는,,,
+Determiners,Future,빌,,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,비신다,비셔,"비세요, 비셔요",비십니다
+Indicative,Past,비셨다,비셨어,비셨어요,비셨습니다
+Interrogative,Non-past,비시느냐,비셔,"비세요, 비셔요",비십니까
+Interrogative,Past,비셨느냐,비셨어,비셨어요,비셨습니까
+Imperative,Imperative,비시라,비셔,비세요,비십시오
+Assertive,Assertive,비시겠다,비시겠어,비시겠어요,비시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,비셔,비셔서,비시니,비시니까
+Contrast,Contrast,비시지만,비시는데,비시더니,
+Conjunction,Conjunction,비시고,,,
+Condition,Condition,비시면,비셔야,,
+Motive,Motive,비시려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,비심,비시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,비셨음,비셨기,,
+Determiners,Past,비신,,,
+Determiners,Present,비시는,,,
+Determiners,Future,비실,,,
