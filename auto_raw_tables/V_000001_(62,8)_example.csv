@@ -1,0 +1,40 @@
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,본다,봐,"봐요, 보아요",봅니다
+Indicative,Past,봤다,봤어,봤어요,봤습니다
+Interrogative,Non-past,보느냐,봐,"봐요, 보아요",봅니까
+Interrogative,Past,봤느냐,봤어,봤어요,봤습니까
+Hortative,Hortative,보자,봐,"봐요, 보아요",봅시다
+Imperative,Imperative,"봐라, 보아라",봐,"봐요, 보아요",봅시오
+Assertive,Assertive,보겠다,보겠어,보겠어요,보겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,봐,"봐서, 보아서",보니,보니까
+Contrast,Contrast,보지만,보는데,보더니,
+Conjunction,Conjunction,보고,,,
+Condition,Condition,보면,"봐야, 보아야",,
+Motive,Motive,보려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,봄,보기,,
+Past-tense verbal nouns,Past-tense verbal nouns,"봤음, 보았음","봤기, 보았기",,
+Determiners,Past,본,,,
+Determiners,Present,보는,,,
+Determiners,Future,볼,,,
+,,,,,
+,,Formal non-polite(해라체),Informal non-polite(해체),Informal polite(해요체),Formal polite(하십시오체)
+Indicative,Non-past,보신다,보셔,"보세요, 보셔요",보십니다
+Indicative,Past,보셨다,보셨어,보셨어요,보셨습니다
+Interrogative,Non-past,보시느냐,보셔,"보세요, 보셔요",보십니까
+Interrogative,Past,보셨느냐,보셨어,보셨어요,보셨습니까
+Imperative,Imperative,보시라,보셔,보세요,보십시오
+Assertive,Assertive,보시겠다,보시겠어,보시겠어요,보시겠습니다
+,,,,,
+Cause/Reason,Cause/Reason,보셔,보셔서,보시니,보시니까
+Contrast,Contrast,보시지만,보시는데,보시더니,
+Conjunction,Conjunction,보시고,,,
+Condition,Condition,보시면,보셔야,,
+Motive,Motive,보시려고,,,
+,,,,,
+Verbal nouns,Verbal nouns,보심,보시기,,
+Past-tense verbal nouns,Past-tense verbal nouns,보셨음,보셨기,,
+Determiners,Past,보신,,,
+Determiners,Present,보시는,,,
+Determiners,Future,보실,,,
